@@ -51,6 +51,11 @@ const root=ReactDOM.createRoot(document.getElementById('root'));
 root.render(<HeadingComponent/>);
 
 
+//the below line of code work when you import ReactDOM from --->>>'react-dom'
+
+//ReactDOM.render(<HeadingComponent/>,document.getElementById('root'));
+
+
 
 
 
